@@ -1,5 +1,8 @@
 # [CIKM 2022] Towards Automated Over-Sampling for Imbalanced Classification
 This is the implementation for the paper [Towards Automated Over-Sampling for Imbalanced Classification](https://arxiv.org/abs/2208.12433). We propose AutoSMOTE, an automated over-sampling algorithm for imbalanced classification. It jointly optimize different levels of decisions with deep hierarchical reinforcement learning. Please refer the paper for more details.
+
+:loudspeaker: Do you want to learn more about oversampling or data augmentation? Please check out our [data-centric AI survey](https://arxiv.org/abs/2212.11854) and [data-centric AI resources](https://github.com/daochenzha/data-centric-AI)!
+
 <img width="800" src="./imgs/overview.png" alt="overview" />
 
 ## Cite this Work
